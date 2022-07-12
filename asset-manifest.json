@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Algorithm__visualizer/static/css/main.9cd2eaaf.chunk.css",
+    "main.js": "/Algorithm__visualizer/static/js/main.c8f835f1.chunk.js",
+    "main.js.map": "/Algorithm__visualizer/static/js/main.c8f835f1.chunk.js.map",
+    "runtime-main.js": "/Algorithm__visualizer/static/js/runtime-main.32f45acb.js",
+    "runtime-main.js.map": "/Algorithm__visualizer/static/js/runtime-main.32f45acb.js.map",
+    "static/css/2.0bee4e7d.chunk.css": "/Algorithm__visualizer/static/css/2.0bee4e7d.chunk.css",
+    "static/js/2.c218b436.chunk.js": "/Algorithm__visualizer/static/js/2.c218b436.chunk.js",
+    "static/js/2.c218b436.chunk.js.map": "/Algorithm__visualizer/static/js/2.c218b436.chunk.js.map",
+    "static/js/3.0a3b23b6.chunk.js": "/Algorithm__visualizer/static/js/3.0a3b23b6.chunk.js",
+    "static/js/3.0a3b23b6.chunk.js.map": "/Algorithm__visualizer/static/js/3.0a3b23b6.chunk.js.map",
+    "index.html": "/Algorithm__visualizer/index.html",
+    "static/css/2.0bee4e7d.chunk.css.map": "/Algorithm__visualizer/static/css/2.0bee4e7d.chunk.css.map",
+    "static/css/main.9cd2eaaf.chunk.css.map": "/Algorithm__visualizer/static/css/main.9cd2eaaf.chunk.css.map",
+    "static/js/2.c218b436.chunk.js.LICENSE.txt": "/Algorithm__visualizer/static/js/2.c218b436.chunk.js.LICENSE.txt",
+    "static/media/15puzzle.5f6e8f37.PNG": "/Algorithm__visualizer/static/media/15puzzle.5f6e8f37.PNG",
+    "static/media/Recursion.74bc404c.jpg": "/Algorithm__visualizer/static/media/Recursion.74bc404c.jpg",
+    "static/media/binaryTree.6d8ce938.png": "/Algorithm__visualizer/static/media/binaryTree.6d8ce938.png",
+    "static/media/convexHull.2720e7cd.png": "/Algorithm__visualizer/static/media/convexHull.2720e7cd.png",
+    "static/media/graph.6e6849d5.png": "/Algorithm__visualizer/static/media/graph.6e6849d5.png",
+    "static/media/primes.72a2f33f.jpg": "/Algorithm__visualizer/static/media/primes.72a2f33f.jpg",
+    "static/media/queen.b2332ba3.PNG": "/Algorithm__visualizer/static/media/queen.b2332ba3.PNG",
+    "static/media/index.css": "/Algorithm__visualizer/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/sort.117e08fc.png": "/Algorithm__visualizer/static/media/sort.117e08fc.png",
+    "static/media/turing.ab68ef09.jpg": "/Algorithm__visualizer/static/media/turing.ab68ef09.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32f45acb.js",
+    "static/css/2.0bee4e7d.chunk.css",
+    "static/js/2.c218b436.chunk.js",
+    "static/css/main.9cd2eaaf.chunk.css",
+    "static/js/main.c8f835f1.chunk.js"
+  ]
+}
