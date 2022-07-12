@@ -1,0 +1,40 @@
+
+.type{
+    width: 100%;
+    align-content: center;
+    background-color: #282c34;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.lato{
+    font-family: 'Lato', sans-serif; 
+}
+.Cards{
+    background-color: #3F4E4F;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    position: center;
+    padding-bottom: 100px;
+
+
+  
+
+}
+.page-footer{
+    background-color: #2C3639;
+  
+   
+}
+.footer-copyright{
+    color:white;
+    background-color: black;
+    padding-bottom: 100px;
+    
+}
+.greet{
+    text-align: center;
+    background-color: #3F4E4F;
+    color: white;
+    padding: 50px;
+}
